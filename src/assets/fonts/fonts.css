@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-Regular.woff2') format('woff2'),
+        url('Jost-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-Light.woff2') format('woff2'),
+        url('Jost-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-Medium.woff2') format('woff2'),
+        url('Jost-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jost';
+    src: url('Jost-SemiBold.woff2') format('woff2'),
+        url('Jost-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'TWK Lausanne 150';
+    src: url('TWKLausanne-150.woff2') format('woff2'),
+        url('TWKLausanne-150.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Crimson Text';
+    src: url('CrimsonText-Regular.woff2') format('woff2'),
+        url('CrimsonText-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
